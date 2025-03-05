@@ -102,7 +102,7 @@ if __name__ == "__main__":
     uvicorn.run(app, host="127.0.0.1", port=8000)
 ```
 
-📌Run the server: Open cmd in the filepath of audio file.
+📌Run the server: Open cmd in the filepath of app.py file.
 ```sh
 python app.py
 ```
